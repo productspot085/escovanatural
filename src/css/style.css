@@ -12,6 +12,14 @@ body {
   color: #333;
 }
 
+h2 {
+  margin-bottom: 15px;
+}
+
+.ul, h3 {
+  margin-top: 10px;
+}
+
 header {
   background: linear-gradient(90deg, #28a745, #218838);
   padding: 30px 20px;
@@ -82,9 +90,10 @@ section {
 }
 
 footer {
+  background: linear-gradient(90deg, #28a745, #218838);
+  color: white;
   text-align: center;
   padding: 15px;
-  color: #777;
   font-size: 0.9rem;
 }
 

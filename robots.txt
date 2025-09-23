@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://productspor085.github.io/escovanatural/sitemap.xml
